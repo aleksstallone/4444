@@ -1,2 +1,4 @@
 python-telegram-bot>=20.0
 mcrcon>=0.7
+python-dotenv>=1.0
+requests
